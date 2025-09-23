@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ]
+  ],
+  "legacy_uid": "26e276c0-5624-6da0-393b-08683d69a352",
+  "instructors": {
+    "content": [
+      "427ce402-6551-93bc-d161-bf015a950ce1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e115b1c9-982a-2133-b4b0-e510ef1b96ed",
+    "website": "14-06-intermediate-macroeconomic-theory-spring-2003"
+  },
+  "course_title": "Intermediate Macroeconomic Theory",
+  "course_description": "This course is a survey of modern macroeconomics at a fairly advanced level. Topics include neoclassical and new& growth theory, consumption and saving behavior, investment, and unemployment. It also includes use of the dynamic programming techniques. Assignments include problem sets and written discussions of macroeconomic events. This course is recommended for students planning to apply to graduate school in economics.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.06",
+  "course_image_thumbnail": {
+    "content": "18e552e2-77a3-7660-2daa-be602a34c027",
+    "website": "14-06-intermediate-macroeconomic-theory-spring-2003"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams"
+  ],
+  "site_uid": "2b56a047-a2d3-4e68-9184-d2e2d15000ee",
+  "site_short_id": "14.06-spring-2003",
+  "site_url_path": "courses/14-06-intermediate-macroeconomic-theory-spring-2003",
+  "title": "Course Metadata"
+}
