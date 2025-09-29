@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information on the course textbook and other assigned
   readings.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -69,7 +71,7 @@ Inventory Investment
 
 Blinder, Alan, and Louis J. Maccini. "Taking Stock: A Critical Assessment of Recent Research on Inventories." _A Journal of Economic Perspectives_, 5 (1991): 73-96.
 
-Maccini, Louis J., Bartholomew Moore, and Huntley Schaller. "The Interest Rate, Learning, and Inventory Investment." {{% resource_link "e0d63d7b-6341-434a-a58d-023ab3af5b91" "_MIT Working Paper_" %}} (2003): 03-04.
+Maccini, Louis J., Bartholomew Moore, and Huntley Schaller. "The Interest Rate, Learning, and Inventory Investment." [_MIT Working Paper_](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.200.7719) (2003): 03-04.
 
 Ramey, Valerie A., and Kenneth D. West. "Inventories." Chap. 13 in _Handbook of Macroeconomics_. Vol. 1B. Edited by John B. Taylor, Micheal Woodford, and Elsevier. 1999.
 
@@ -95,4 +97,4 @@ Chang, Ha-Joon. _Kicking Away the Ladder-Development Strategy in Historical Pers
 
 Easterly, William. _The Elusive Quest for Growth: Economists' Adventures and Misadventures in the Tropics_. Cambridge, MA: MIT Press, 2001.
 
-Data for a wide variety of countries are available from the Penn World Tables, available on the web at {{% resource_link "3f397cc6-5e59-426a-b72d-de4bad87090f" "http://datacentre2.chass.utoronto.ca/pwt/" %}}.
+Data for a wide variety of countries are available from the Penn World Tables, available on the web at [http://datacentre2.chass.utoronto.ca/pwt/](http://datacentre2.chass.utoronto.ca/pwt/).

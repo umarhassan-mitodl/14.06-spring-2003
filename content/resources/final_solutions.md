@@ -4,6 +4,8 @@ description: Solutions to a final exam on macroeconomic theory.
 file: /courses/14-06-intermediate-macroeconomic-theory-spring-2003/07673f1a9754b9cd7b727d4fb97b66d9_final_solutions.pdf
 file_size: 200610
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

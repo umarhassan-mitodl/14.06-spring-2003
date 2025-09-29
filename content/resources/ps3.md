@@ -4,6 +4,8 @@ description: Problem set on macroeconomic theory.
 file: /courses/14-06-intermediate-macroeconomic-theory-spring-2003/76f7948dcc3d7e0f242c57eeb38174c0_ps3.pdf
 file_size: 150271
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
