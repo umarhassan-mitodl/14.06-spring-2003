@@ -78,7 +78,7 @@ Inventory Investment
 
 Blinder, Alan, and Louis J. Maccini. "Taking Stock: A Critical Assessment of Recent Research on Inventories." _A Journal of Economic Perspectives_, 5 (1991): 73-96.
 
-Maccini, Louis J., Bartholomew Moore, and Huntley Schaller. "[The Interest Rate, Learning, and Inventory Investment](http://www.jstor.org/stable/3592824)." _MIT Working Paper_ (2003): 03-04.
+Maccini, Louis J., Bartholomew Moore, and Huntley Schaller. "{{% resource_link "d222bf16-1a64-453e-9cf3-13a256a35757" "The Interest Rate, Learning, and Inventory Investment" %}}." _MIT Working Paper_ (2003): 03-04.
 
 Ramey, Valerie A., and Kenneth D. West. "Inventories." Chap. 13 in _Handbook of Macroeconomics_. Vol. 1B. Edited by John B. Taylor, Micheal Woodford, and Elsevier. 1999.
 
@@ -122,7 +122,7 @@ Chang, Ha-Joon. _Kicking Away the Ladder-Development Strategy in Historical Pers
 
 Easterly, William. _The Elusive Quest for Growth: Economists' Adventures and Misadventures in the Tropics_. Cambridge, MA: MIT Press, 2001.
 
-Data for a wide variety of countries are available from the Penn World Tables, available on the web at [http://datacentre2.chass.utoronto.ca/pwt/](http://datacentre2.chass.utoronto.ca/pwt/).
+Data for a wide variety of countries are available from the Penn World Tables, available on the web at {{% resource_link "45daf3a6-8d98-40f2-ac9e-cd2cadbe972b" "http://datacentre2.chass.utoronto.ca/pwt/" %}}.
 
 Paper Standards for 14.05
 -------------------------
